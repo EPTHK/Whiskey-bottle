@@ -26,7 +26,7 @@ npm install whiskey-bottle
 
 ## Usage
 
-Take a look at the information in the [example folder](https://github.com/EPTHK/Whiskey-bottle/blob/master/src/example/)
+Take a look at the information in the [example folder](https://github.com/wyuenchy/Whiskey-bottle/blob/master/src/example/)
 
 ## I wanna tweak it for my own use case
 
@@ -54,7 +54,7 @@ Sure thing! You can tinker with the package like this:
 
 ## Found a bug or want to contribute because you're a cool person?
 
-If you found an issue or would like to submit an improvement, please [open an issue here](https://github.com/EPTHK/Whiskey-bottle/issues/new/choose).
+If you found an issue or would like to submit an improvement, please [open an issue here](https://github.com/wyuenchy/Whiskey-bottle/issues/new/choose).
 
 If you actually have some spare time and want to contribute, feel free to open a PR and please don't forget to (create and) link the corresponding issue. <br/>
 It's important so we can keep track of all the issues and feature requests that got resolved by PRs.
