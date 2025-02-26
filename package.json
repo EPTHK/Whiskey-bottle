@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EPTHK/Whiskey-bottle.git"
+    "url": "git+https://github.com/wyuenchy/Whiskey-bottle.git"
   },
   "files": [
     "lib/**/*"
@@ -39,7 +39,7 @@
   "author": "wyuenchy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EPTHK/Whiskey-bottle/issues"
+    "url": "https://github.com/wyuenchy/Whiskey-bottle/issues"
   },
   "homepage": "https://github.com/EPTHK/Whiskey-bottle#readme"
 }
